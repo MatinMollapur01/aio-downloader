@@ -7,6 +7,142 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 14:43
+---
+
+## VahidOOnLine — post 240781
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240781_1779102781.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای رسیده به ایران‌اینترنشنال، نصب بنرهای اعتراضی را در مناطق مختلف کرج نشان می‌دهد که روی آنها نوشته شده: «ما چیزی برای خوردن نداریم. بچه‌هایمان گرسنه هستن. همه‌چیز به ما بستگی دارد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9237
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9237_1779102783.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️یک فروند هواپیمای گلف‌استریم G-V «نخشون شاویت» نیروی هوایی اسرائیل، که برای شنود سیگنالی (SIGINT) و شناسایی به‌کار می‌رود، هم‌اکنون در حال انجام مأموریت ISR (اطلاعات، مراقبت و شناسایی) بر فراز شرق دریای مدیترانه و در سواحل مصر است.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341868
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341868_1779102783.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @FoxNewsEnt: We settled some hot takes in the world of country music 🎤
+
+Watch country stars go rapid fire with their answers at the 61st Academy of Country Music Awards.
+</div>
+
+## IranIntlTV — post 337765
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337765_1779102784.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مروری بر روزنامه‌های ایران، دوشنبه ۲۸ اردیبهشت، با مجتبی هاشمی، روزنامه‌نگار
+@iranintltv
+</div>
+
+## IranIntlTV — post 337764
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337764_1779102786.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مسعود پزشکیان به عوارض اقتصادی محاصره دریایی آمریکا اذعان کرد و گفت: «کشور امکان صادرات نفت و تامین دلار برای واردات بنزین را ندارد.»
+
+گفت‌وگو با مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337763
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337763_1779102787.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای رسیده به ایران‌اینترنشنال، نصب بنرهای اعتراضی را در مناطق مختلف کرج نشان می‌دهد که روی آنها نوشته شده: «ما چیزی برای خوردن نداریم. بچه‌هایمان گرسنه هستن. همه‌چیز به ما بستگی دارد.»
+</div>
+
+## FarsiVOA — post 218046
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218046_1779102789.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارتش اسرائیل از کشتن یکی از اعضای حماس در غزه خبر داد؛
+
+ارتش اسرائیل اعلام کرد که یکی از اعضای سازمان تروریستی حماس را که قصد اجرای طرح‌های تک‌تیراندازی علیه نیروهای این ارتش در آینده نزدیک داشت، کشته است.
+
+ارتش اسرائیل با انتشار بیانیه‌ای نوشت: «یک هواگرد نیروی هوایی، با هدایت نیروهای لشکر غزه، روز یکشنبه یک تروریست از سازمان تروریستی حماس را که در حال پیشبرد طرح‌های تک‌تیراندازی در آینده نزدیک علیه نیروهای ارتش اسرائیل در جنوب نوار غزه بود، به هلاکت رساند.»
+
+به نوشته ارتش اسرائیل، این عضو حماس «تهدیدی فوری برای نیروهای ارتش اسرائیل محسوب می‌شد و به‌صورت هدفمند برای رفع این تهدید» کشته شد.
+
+بر اساس این گزارش، نیروهای ارتش اسرائیل تحت فرماندهی جبهه جنوب مطابق با توافق مستقر هستند و به فعالیت برای «رفع هرگونه تهدید فوری» ادامه خواهند داد.
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14408
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14408_1779102791.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایران سامانه «هرمز سیف» را برای ثبت‌نام کشتی‌های عبوری از تنگه هرمز راه‌اندازی کرد
+
+جمهوری اسلامی ایران سامانه‌ای تحت عنوان «هرمز سیف» را با هدف ارائه خدمات به کشتی‌های عبوری از تنگه هرمز راه‌اندازی کرده است. بر اساس این طرح، ناخدایان و شرکت‌های کشتیرانی می‌توانند از طریق این سامانه درخواست خدمات مختلف از جمله بیمه، کترینگ، خدمات اضطراری و همراهی اسکورت نظامی را ثبت کنند.جالبه که اسکورت نظامی رو هم جزو «خدمات» گذاشتن، کنارِ کترینگ! 😂
+
+
+
+با این حال، این سامانه با یک چالش فنی قابل توجه مواجه است؛ وب‌سایت مذکور از خارج از ایران قابل دسترسی نیست و کاربران خارجی برای ثبت‌نام ملزم به استفاده از اینترنت ایرانی هستند.
+
+آدرس سامانه: hormuzsafe.ir
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20328
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در حالی که‌ مردم دنیا هیجان دارن واسه جام جهانی و‌ منتظرن شروع شه
+
+ما ایرانیا دغدغمون اینه که کی بزنن و‌ دوباره جنگ شه که شاید از دست این آخوندا زودتر نجات پیدا کردیم :)
+
+یعنی خورشید یه روزی تو‌این سرزمین هم طلوع میکنه دوباره؟
+
+@IranianMinds
+</div>
+
+## alonews — post 120834
+
+<div align="center">
+  <a href="telegram/content/alonews_120834_1779102792.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈معاون وزیر ارتباطات: باید دسترسی امن مردم به اینترنت پایدار را به رسمیت بشناسیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 14:33
 ---
 
