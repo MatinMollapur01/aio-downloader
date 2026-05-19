@@ -7,6 +7,45 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 02:03
+---
+
+## WithYashar — post 11715
+
+
+
+
+## WithYashar — post 11714
+
+
+
+
+## IranianMinds — post 20414
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20414_1779230004.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 نیویورک تایمز :
+
+فیفا قصد دارد دوباره ورود پرچم «شیر و خورشید» ایران پیش از انقلاب و لباس‌های مرتبط با آن را به ورزشگاه‌های جام جهانی ۲۰۲۶ ممنوع کند. این پرچم در جام جهانی ۲۰۲۲ قطر هم محدود شده بود.
+
+@IranianMinds
+</div>
+
+## alonews — post 121194
+
+<div align="center">
+  <a href="telegram/content/alonews_121194_1779230005.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈نخست وزیرهای ایتالیا و هند این وقت شب دوتایی رفتن کلوسئوم رو ببینن
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 01:52
 ---
 
