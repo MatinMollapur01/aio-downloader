@@ -7,6 +7,75 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 23:54
+---
+
+## WithYashar — post 11798
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صدا و سیما : مردم یه سر به فضای مجازی بزنن تا ببینن چطور مردم کل دنیا منتظرن جمهوری اسلامی مقابل آمریکا و اسرائیل بایسته و یه تو دهنی محکم بهشون بزنه؛ پاسخی که دل خیلی‌ها رو خنک کنه.
+@withyashar 🤣
+</div>
+
+## pm_afshaa — post 91133
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91133_1779308646.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فدا حسین مالکی، عضو کمیسیون امنیت ملی مجلس در صداوسیما: عاصم منیر فردا حامل پیام جدیدی از سوی آمریکا به ایرانه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 338148
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338148_1779308647.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قانون جدید طالبان درباره طلاق و ازدواج، موجی از نگرانی درباره حقوق زنان و افزایش کودک‌همسری در افغانستان ایجاد کرده است. براساس این قانون، سکوت دختر به‌منزله رضایت برای ازدواج تلقی می‌شود؛ موضوعی که منتقدان می‌گویند راه را برای ازدواج اجباری و کودک‌همسری هموارتر می‌کند.
+@iranintltv
+</div>
+
+## FarsiVOA — post 218258
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺سناتور گراهام: جمهوری اسلامی با اقدامات دونالد ترامپ در ضعیف‌ترین وضعیت خود قرار دارد
+
+▪️لیندزی گراهام، سناتور جمهوری‌خواه آمریکایی از ایالت کارولینای جنوبی، روز دوشنبه با تمجید از سیاست‌های دونالد ترامپ، رئیس‌جمهوری آمریکا، در قبال جمهوری اسلامی، گفت آقای ترامپ توانسته است رژیم ایران را به ضعیف‌ترین وضعیتش از سال ۱۳۵۷ برساند.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/lindsey-graham-on-asim-munir-going-to-iran/8152121.html
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14557
+
+<div align="center">
+  <a href="https://t.me/persian_trend_official/14557" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نسخه تلگرام :
+</div>
+
+## Persian_Trend_Official — post 14555
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14555_1779308649.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نسخ صوتی لایو امشب در کست باکس :
+
+https://castbox.fm/vi/947285526
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 23:44
 ---
 
