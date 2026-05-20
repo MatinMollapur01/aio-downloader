@@ -7,6 +7,53 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 05:23
+---
+
+## VahidOOnLine — post 241074
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241074_1779241984.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سنای آمریکا با پیشبرد طرح محدود کردن اختیارات جنگی ترامپ در جنگ علیه جمهوری اسلامی موافقت کرد. اقدامات سنا در این زمینه تا کنون به تصویب نرسیده‌اند.
+
+کوری بوکر، سناتور دموکرات، گفت: «باید همچنان به صحبت کردن ادامه دهیم تا سنا سرانجام برای پایان دادن به این جنگ اقدام کند.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341975
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341975_1779241985.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+A major Trump ally is now one step away from Alabama’s governor’s mansion.
+
+Sen. Tommy Tuberville rolled through the Republican primary after months of campaigning as a close ally of President Trump and a fighter against the Washington establishment.
+
+The race drew national attention as another early test of Trump’s strength with Republican voters — and Alabama Republicans delivered Tuberville a commanding victory.
+
+Now the longtime senator heads into the general election with the GOP favored to hold the seat.
+</div>
+
+## IranIntlTV — post 338022
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_338022_1779241986.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سنای آمریکا با پیشبرد طرح محدود کردن اختیارات جنگی ترامپ در جنگ علیه جمهوری اسلامی موافقت کرد. اقدامات سنا در این زمینه تا کنون به تصویب نرسیده‌اند.
+
+کوری بوکر، سناتور دموکرات، گفت: «باید همچنان به صحبت کردن ادامه دهیم تا سنا سرانجام برای پایان دادن به این جنگ اقدام کند.»
+https://iranintl.com/202605201635
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 05:13
 ---
 
