@@ -1,32 +1,22 @@
 const { chromium } = require('playwright');
 const fs = require('fs').promises;
+const path = require('path');
 const { execSync } = require('child_process');
 
-const inputUrl = process.argv[2];
-if (!inputUrl) {
-  console.error('No URL provided');
-  process.exit(1);
-}
-
-const MAX_LINKS = 500;               // safety cap for the URL list
-const VIEWPORT = { width: 1280, height: 720 };
-
-// ---------- random 5 lowercase letters ----------
+// ── helpers ──────────────────────────────────────────────
 function randomFiveLetters() {
   return Array.from({ length: 5 }, () =>
     String.fromCharCode(97 + Math.floor(Math.random() * 26))
   ).join('');
 }
 
-// ---------- wait for full load ----------
 async function waitForStable(page) {
   await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {
-    console.warn('Network did not become fully idle – continuing…');
+    console.warn('Network idle timeout – continuing…');
   });
-  await page.waitForTimeout(3000);  // extra time for images/animations
+  await page.waitForTimeout(3000);
 }
 
-// ---------- scroll to trigger lazy images ----------
 async function scrollToLoad(page) {
   await page.evaluate(async () => {
     await new Promise(resolve => {
@@ -45,15 +35,14 @@ async function scrollToLoad(page) {
   await page.waitForTimeout(2000);
 }
 
-// ---------- extract all unique links ----------
 async function extractLinks(page) {
   return page.evaluate(() => {
     const links = Array.from(document.querySelectorAll('a[href]'))
-      .map(a => a.href)                           // absolute URL
-      .filter(href => href.startsWith('http'));    // ignore javascript:, mailto: etc.
+      .map(a => a.href)
+      .filter(href => href.startsWith('http'));
     const seen = new Set();
     return links
-      .map(link => link.split('#')[0])             // remove hash
+      .map(link => link.split('#')[0])
       .filter(link => {
         if (seen.has(link)) return false;
         seen.add(link);
@@ -62,41 +51,71 @@ async function extractLinks(page) {
   });
 }
 
-// ---------- main ----------
+// ── argument parsing ─────────────────────────────────────
+const args = process.argv.slice(2);
+let inputUrl = null;
+let bundle = false;                 // default false (per‑URL zip)
+
+for (let i = 0; i < args.length; i++) {
+  if (args[i] === '--bundle' && i + 1 < args.length) {
+    bundle = args[i + 1] === 'true';
+    i++;                            // skip the value
+  } else if (!inputUrl) {
+    inputUrl = args[i];
+  }
+}
+
+if (!inputUrl) {
+  console.error('Usage: node script.js <URL> [--bundle true|false]');
+  process.exit(1);
+}
+
+// ── main ─────────────────────────────────────────────────
 (async () => {
-  console.log('Launching browser…');
+  const MAX_LINKS = 500;
+  const VIEWPORT = { width: 1280, height: 720 };
+  const OUTPUT_DIR = 'website';                 // final destination
+  await fs.mkdir(OUTPUT_DIR, { recursive: true });
+
+  // Temporary working directory for intermediate files
+  const TMP_DIR = 'tmp_pdf';
+  await fs.mkdir(TMP_DIR, { recursive: true });
+
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext({
     viewport: VIEWPORT,
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+    userAgent:
+      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
   });
 
-  const page = await context.newPage();
+  let page; // Moved outside try block so finally can access it
+
   try {
-    // ----- 1. Capture main page with clickable links -----
+    page = await context.newPage();
+
+    // 1. Capture main page
     await page.goto(inputUrl, { waitUntil: 'load', timeout: 30000 });
     await waitForStable(page);
     await scrollToLoad(page);
 
-    console.log('Saving main page as PDF (links will be clickable)…');
+    const mainPdfPath = path.join(TMP_DIR, 'main.pdf');
     await page.pdf({
-      path: 'main.pdf',
+      path: mainPdfPath,
       fullPage: true,
       printBackground: true,
       margin: { top: '0px', bottom: '0px', left: '0px', right: '0px' }
     });
 
-    // ----- 2. Extract all links -----
+    // 2. Extract links
     const allLinks = await extractLinks(page);
     console.log(`Found ${allLinks.length} unique links.`);
 
-    // Limit to a safe maximum to avoid enormous PDFs
     const limitedLinks = allLinks.slice(0, MAX_LINKS);
     if (allLinks.length > MAX_LINKS) {
       console.log(`(Trimmed to ${MAX_LINKS} for the list.)`);
     }
 
-    // ----- 3. Build a simple HTML page listing all URLs -----
+    // 3. Build link list HTML → PDF
     const listHtml = `<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8"><title>Extracted URLs</title>
@@ -111,44 +130,65 @@ ${limitedLinks.map(link => `<li><a href="${link}">${link}</a></li>`).join('\n')}
 </ol>
 </body></html>`;
 
-    // Open the list in a new tab, capture it as PDF
     const listPage = await context.newPage();
     await listPage.setContent(listHtml, { waitUntil: 'load' });
-    await listPage.waitForTimeout(1000); // let rendering finish
+    await listPage.waitForTimeout(1000);
+    const listPdfPath = path.join(TMP_DIR, 'list.pdf');
     await listPage.pdf({
-      path: 'list.pdf',
+      path: listPdfPath,
       fullPage: true,
       printBackground: true,
       margin: { top: '20px', bottom: '20px', left: '20px', right: '20px' }
     });
     await listPage.close();
 
-    // ----- 4. Merge both PDFs with ghostscript (keeps links intact) -----
-    console.log('Merging with Ghostscript…');
+    // 4. Merge with Ghostscript
+    const mergedPdfPath = path.join(TMP_DIR, 'merged.pdf');
     execSync(
-      `gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=output.pdf main.pdf list.pdf`,
+      `gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=${mergedPdfPath} ${mainPdfPath} ${listPdfPath}`,
       { stdio: 'inherit' }
     );
 
-    // ----- 5. Generate filename -----
+    // 5. Build final filename
     const hostname = new URL(inputUrl).hostname.replace(/^www\./, '');
     const randomPart = randomFiveLetters();
-    const filename = `${hostname}-${randomPart}.pdf`;
-    console.log(`Generated filename: ${filename}`);
+    const pdfFilename = `${hostname}-${randomPart}.pdf`;
 
-    // Export filename for the upload step
-    await fs.appendFile(process.env.GITHUB_ENV, `FILENAME=${filename}\n`);
+    if (bundle) {
+      // Bundle mode: place PDF directly into website/
+      const destPath = path.join(OUTPUT_DIR, pdfFilename);
+      await fs.rename(mergedPdfPath, destPath);
+      console.log(`✅ Bundle mode – PDF saved to ${destPath}`);
+    } else {
+      // Non‑bundle mode: create a zip containing the PDF
+      const finalPdfPath = path.join(TMP_DIR, pdfFilename);
+      await fs.rename(mergedPdfPath, finalPdfPath);
+      const zipFilename = `${hostname}-${randomPart}.zip`;
+      const zipPath = path.join(OUTPUT_DIR, zipFilename);
+      const zip = require('child_process').spawnSync('zip', [
+        '-j', zipPath, finalPdfPath
+      ]);
+      if (zip.status !== 0) {
+        console.error('Failed to create zip');
+        process.exit(1);
+      }
+      // clean up the temporary renamed PDF
+      await fs.unlink(finalPdfPath);
+      console.log(`✅ Non‑bundle mode – per‑URL zip saved to ${zipPath}`);
+    }
 
-    // Clean up temporary PDFs
-    await fs.unlink('main.pdf');
-    await fs.unlink('list.pdf');
+    // Clean up remaining temporary files
+    const files = await fs.readdir(TMP_DIR);
+    for (const file of files) {
+      await fs.unlink(path.join(TMP_DIR, file));
+    }
+    await fs.rmdir(TMP_DIR);
 
-    console.log('Done.');
   } catch (err) {
-    console.error(err);
+    console.error('❌ Error during PDF capture:', err);
     process.exit(1);
   } finally {
-    await page.close();
+    if (page) await page.close().catch(() => {});  // safe close
     await context.close();
     await browser.close();
   }
