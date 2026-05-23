@@ -68,7 +68,6 @@ jobs:
           fi
 
           OUTPUT_DIR="direct"
-          rm -rf "$OUTPUT_DIR"
           mkdir -p "$OUTPUT_DIR"
 
           FAILED_FILE="failed_urls.txt"
