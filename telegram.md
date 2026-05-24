@@ -7,6 +7,101 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 01:02
+---
+
+## WithYashar — post 12380
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+به خاطر ایران به خاطر تمام جاوید نام های میهن از روز اول این رژیم و اولین جاوید نام محمد رضاشاه پهلوی و تمام ژنرال ها به خاطر او سرباز وظیفه که اینجا خدا حافظی کرد ، اون خواهرم که پدر مادرش ۸۰ سالشونه و مریضن و تو ماشین گریه میکرد به خاطر تمام جونهایی که پیغام دادن و آرزوشون او موتور بود که هر هفته گرون میشد به خاطر حتی اون بچه هیئتی که گفت من اتاق جنگیم ! دوشنبه شب به همه بگین هر جور شده بیان ! و پیغام رو برسونیم !
+</div>
+
+## FoxNewsTwitter — post 342187
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342187_1779658349.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+A powerful moment before the Coca-Cola 600.
+
+Bubba Wallace seen kneeling beside the painted No. 8 on the Charlotte Motor Speedway infield honoring Kyle Busch, as the NASCAR world continues grieving the loss of the two-time Cup Series champion.
+
+The tribute stopped fans in their tracks before one of the NASCAR's biggest nights — a reminder of just how much Busch meant to the sport, rivals included.
+</div>
+
+## IranIntlTV — post 338813
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338813_1779658350.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «حتی اگر توافقی هم میان ترامپ و جمهوری اسلامی شکل بگیرد که هنوز معلوم نیست شکل بگیرد، مردم ایران از ابتدا تکیه اصلی‌شان به خودشان بوده و طی ۹ سال گذشته پیوسته قیام کرده‌اند. خیزش‌های مردمی بدون اتکا به کمک خارجی آغاز شد و مطالبه حمایت خارجی نیز پس از سرکوب و کشتار حکومت مطرح شد و بدون حمایت خارجی نیز قابل تداوم است.»
+@iranintltv
+</div>
+
+## Persian_Trend_Official — post 14894
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14894_1779658352.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسِ نتانیاهو با ترامپ کافی بود تا سیاستِ جدید آمریکا به «بدون گرد و غبار (خروجِ ۴۰۰کیلوگرم‌ اورانیوم)، بدونِ دلار (مُنتفی‌شدنِ آزادسازی اموال بلوکه شده ایران)» _No Dust, No Dollars_ بازگردد!
+آمریکا تصمیم گرفته دلاری از اموال بلوکه شده کشور را تا به «خواسته‌هایِ هسته ای آمریکا» تَن ندهیم، آزاد نکند!
+از طرفِ دیگر ایران اخیرا خطِ قرمزِ غنی‌سازی را از ۳.۶۷ ٪ به ۲۰٪ ارتقا داده و ۴۰۰ کیلوگرم اورانیوم هم از ایران خارج نمی‌شود!
+ایران احتمالا با وضعیتِ بلاتکلیفِ «رفع محاصره تنگه توسط آمریکا»، «عدم آزادسازیِ اموال بلوکه شده» و «خواست‌های حداکثریِ هسته‌ای آمریکا»، «تفاهم اسلام آباد» را امضا نکند!
+علی قلهکی
+
+پ.ن : عرض نکردم ؟!
+</div>
+
+## BBCPersian — post 281965
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281965_1779658352.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مسعود پزشکیان، رئیس‌جمهور ایران، همزمان با افزایش امیدواری به توافق میان تهران و واشنگتن و پایان درگیری در منطقه، گفت که ایران آماده است به جهان اطمینان دهد که به دنبال سلاح هسته‌ای نیست.
+
+آقای پزشکیان این سخنان را روز یکشنبه در خلال دیدار از سازمان صدا و سیما عنوان کرد و گفت: «در دوران امام شهیدمان اعلام کردیم، اکنون نیز اعلام می‌کنیم که آمادگی داریم به جهان اطمینان دهیم که به دنبال سلاح هسته‌ای نیستیم، به دنبال ناآرامی در منطقه نیستیم، آنکه به دنبال ناآرام کردن منطقه است، رژیم اسرائیل است که نقشه «اسرائیل بزرگ» را دنبال می‌کند.»
+
+اظهارات رئیس‌جمهور ایران می‌تواند پاسخی صریح به اصلی‌ترین درخواست دونالد ترامپ، همتای آمریکایی او باشد که بارها تاکید کرده است «ایران نباید به سلاح هسته‌ای دست یابد».
+
+📷Iran’s Presidential website/Reuters
+
+آخرین تحولات مربوط به ایران و جهان را از لینک ⬇️ در سایت بی‌بی‌سی فارسی دنبال کنید.
+https://bbc.in/4f4RLQz
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 390108
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390108_1779658353.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+از دیشب که بی‌بی شنیده که جمهوری اسلامی تو تفاهم‌نامه‌شون با ترامپ شرط کردن که به حزبل نباید حمله شه، هر پنج دقیقه یه بار داره لبنان رو می‌گاد.
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 122448
+
+<div align="center">
+  <a href="telegram/content/alonews_122448_1779658354.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈نیویورک پست:
+ترامپ نظر خود را تغییر داده و احتمال توافق اکنون به طور قابل توجهی کاهش یافته است؛ تماس ترامپ با نتانیاهو تأثیر بسیار زیادی داشته است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 00:52
 ---
 
