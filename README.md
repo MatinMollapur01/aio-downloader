@@ -470,9 +470,9 @@ GOOGLE_REFRESH_TOKEN → Refresh Token خود را بچسبانید
 
 <div dir="ltr" markdown="1">
 
-+++
+```
 curl -fsSL https://raw.githubusercontent.com/ShahabSL/Skirk/main/install.sh | sh
-+++
+```
 
 </div>
 
@@ -486,14 +486,14 @@ curl -fsSL https://raw.githubusercontent.com/ShahabSL/Skirk/main/install.sh | sh
 
 <div dir="ltr" markdown="1">
 
-+++
+```
 skirk setup init \
   --out skirk-kit \
   --reset-google-login \
   --oauth-mode personal \
   --oauth-client-id "CLIENT_ID" \
   --oauth-client-secret "CLIENT_SECRET"
-+++
+```
 
 </div>
 
@@ -552,13 +552,13 @@ skirk setup init \
 
 <div dir="ltr" markdown="1">
 
-+++
+```
 cd ~/workspace/your-repo-name   # مسیر دقیق با توجه به نام مخزن‌تان (معمولاً به‌طور خودکار آنجا هستید)
 rm -rf skirk-kit
 git add .
 git commit -m "Remove temporary Skirk configuration files"
 git push
-+++
+```
 
 </div>
 
