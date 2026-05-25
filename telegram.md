@@ -7,6 +7,267 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 23:53
+---
+
+## VahidOOnLine — post 242178
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242178_1779740603.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️«یک منبع نظامی» در گفتگو با تسنیم، خبرگزاری وابسته به سپاه، روز دوشنبه مدعی شد که بررسی‌های فنی نیروهای مسلح نشان می‌دهد اسرائیل طی چند هفته گذشته، چندین حمله پهپادی را در قالب عملیات «پرچم دروغین» علیه امارات متحده عربی انجام داده است. این منبع ضمن اشاره به اینکه اقدامات انجام شده با هدف «تحریک» مقامات اماراتی صورت گرفته، گفت: «اسرائیل نشان داده است که صرفا منافع خود را در نظر دارد؛ به نوعی که هم در ارتباط با برخی از کشورهای حاشیه خلیج فارس آن‌ها را به ورطه‌ای خطرناک می‌کشاند و هم همزمان عملیات‌هایی را علیه آن‌ها انجام می‌دهد.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242177
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_242177_1779740604.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محمد مرندی، کارشناس حکومتی و عضو هیات مذاکره‌کنندگان جمهوری اسلامی در مذاکرات جاری، در تلویزیون گفت قطر پذیرفته بخشی از دارایی‌های بلوکه‌شده حکومت را پیشاپیش تامین و بعد، از آمریکا دریافت کند. او دلیل این اقدام را درک قدرت جمهوری اسلامی و نتایج ایستادگی آن عنوان کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12461
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ممکنه مثل همیشه پدافند یا شلیک موشک هم باشه ! صبر میکنیم فیلمی عکسی خبری رسمی ‌بیاد
+</div>
+
+## WithYashar — post 12460
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارش سه انفجار بندر عباس (تایید نشده )
+@withyashar
+</div>
+
+## pm_afshaa — post 91488
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91488_1779740605.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴بندرعباس صدای 4 انفجار شنیده شده.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91487
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91487_1779740605.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴تسنیم به نقل از منبع نظامی:
+اسرائیل هفته های پیش حمله پهبادی به امارات کرده بندازه گردن ایران.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4961
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4961_1779740606.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+⭕️ بنیامین نتانیاهو، نخست‌وزیر اسرائیل، شامگاه دوشنبه با انتشار ویدئویی اعلام کرد جنگ جاری اسرائیل با حزب‌الله متوقف نخواهد شد و حملات خود علیه این گروه تروریستی و نیابتی رژیم ایران در لبنان را تشدید خواهد کرد. پیش از این گفته بود که یکی از مفاد توافق احتمالی…
+</div>
+
+## VahidOnline — post 75714
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پیام‌های دریافتی درباره صدای شنیده شدن صدای انفجار در بندرعباس:
+
+بندرعباس سه بار صدای شدید اومد الان
+
+صدای بمب میاد.
+بندرعباس ساعت ۲۳:۴۰
+
+همین الان ساعت ۲۳:۴۰ صدای سه تا انفجار شدید توو بندرعباس اومد. نزدیک پایگاه شکاری یا همون فرودگاه بود به نظرم
+
+بندرعباس ۲۳:۴۰ سه تا انفجار شدید
+
+حاجی۲۳/۴۰ سه تا انفجار شدید شرق بندرعباس
+دقیقا صدای انفجار ۴۰روز جنگ بود
+
+
+سلام همین الان بندرعباس صدای دوتا انفجار اومد
+
+بندرعباس حدود ۲۳:۴۰ دقیقه سمت فرودگاه صدای سه انفجار اومد.
+
+درود وحید جان
+بندر عباس ۱۱:۴۲ سه تا صدای زدن اومد
+
+بندرعباس، ساعت 11.40
+
+صدای شدید انفجار و لرزش
+
+سه تا صدای انفجار پشت هم شنیدیم بندرعباس
+
+بندرعباس 11:40 شب 4 خرداد صدای انفجار
+
+
+📡 @VahidOnline
+</div>
+
+## kianmeli1 — post 87663
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87663_1779740606.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پزشکیان: این خانم‌هایی که قبلا می‌گفتند بگیرید همین الان تصاویرشان هستند که پرچم ایران و تصویر آقا را برداشتند و می‌گویند حاضرم جان بدهم و در مقابل دشمن بایستم در صورتی که یه روزی می‌گفتند این‌ها را بگیرید و جریمه کنید!
+
+-در برخی مساجد اگر خانمی با مانتو برود، خانم‌های چادری وی را از مسجد بیرون می‌کنند
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 338987
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338987_1779740608.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محمد مرندی، کارشناس حکومتی و عضو هیات مذاکره‌کنندگان جمهوری اسلامی در مذاکرات جاری، در تلویزیون گفت قطر پذیرفته بخشی از دارایی‌های بلوکه‌شده حکومت را پیشاپیش تامین و بعد، از آمریکا دریافت کند. او دلیل این اقدام را درک قدرت جمهوری اسلامی و نتایج ایستادگی آن عنوان کرد.
+</div>
+
+## IranIntlTV — post 338986
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338986_1779740609.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رویترز به نقل از دو مقام اسرائیلی گزارش داد بنیامین نتانیاهو نسبت به تفاهم‌نامه در حال مذاکره میان تهران و واشینگتن ابراز نگرانی کرده است. براساس این گزارش، او گفته اسرائیل نفوذ چندانی بر تصمیم‌های دونالد ترامپ درباره ایران ندارد.
+
+گفت‌وگو با مئیر جاودانفر، تحلیل‌گر مسائل اسرائیل
+@iranintltv
+</div>
+
+## Shin_Persian — post 6220
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_6220_1779740611.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Mon, 25 May 2026 20:17:30 UTC
+
+2012Z
+3 huge blasts in Bandar Abbas, Hormozgan Province, #Iran
+
+فارسی
+
+۲۰۱۲ زولو (۲۳:۴۲ به وقت تهران)
+۳ انفجار مهیب در بندرعباس، استان هرمزگان، #Iran
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 218646
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218646_1779740611.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️رضا طالبی: سعید جلیلی به حاشیه رانده شده است
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14992
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14992_1779740612.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۲ تلاش اسرائیل برای ترور شیخ نعیم قاسم ناکام ماند.
+
+شبکه الحدث گزارش داد تل‌آویو دست‌کم دو بار به تازگی تلاش کرده شیخ نعیم قاسم، رهبر حزب‌الله لبنان را هدف قرار دهد اما موفق نشده است.
+
+
+
+👩‍💻@PhantomDirective
+
+
+🆔@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Dirty_Kids — post 390183
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390183_1779740612.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حالا که دارن وصل میکنن اگه برنامه‌ای برای مصرف کانفیگ گروناتون ندارید میتونید از این چالش جدیدا ببینید
+
+کانفیگ‌ بزنیم به کص‌گاو کونمون نسوزه
+
+اعتباریم نیست خوب فکر کنید
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390182
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرانه مصرف سالانه لبنیات در ایران: ۴۰ کیلوگرم
+میانگین کشورهای جهان: ۱۸۰ کیلوگرم
+کشورهای پیشرفته: ۳۶۰ کیلوگرم.
+
+نتیجه: پوکی‌استخوان، پوسیدگی‌دندان، بی‌خوابی و اضطراب، کوتاهی‌قد، سوءتغذیه و اختلال‌رشد.
+
+تنها رژیم چینجی که ترامپ انجام داد رژیم غذایی مردم بود
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390181
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390181_1779740613.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عراقچی و ظریف و پزشکیان اعدام کنید
+
+مردم ما کف ملت هستن 😂
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 122666
+
+<div align="center">
+  <a href="telegram/content/alonews_122666_1779740615.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری / صدای ۴ انفجار در بندرعباس شنیده شده!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 23:43
 ---
 
