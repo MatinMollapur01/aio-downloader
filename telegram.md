@@ -7,6 +7,173 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/05 02:43
+---
+
+## VahidOOnLine — post 242197
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242197_1779750781.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاکس‌نیوز به نقل از سخنگوی ستاد فرماندهی مرکزی آمریکا، سنتکام، گزارش داد نیروهای آمریکا روز دوشنبه در جنوب ایران به اهدافی از جمله محل‌های پرتاب موشک و قایق‌های ایرانی که در تلاش برای مین‌گذاری بودند، حمله کردند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242196
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_242196_1779750782.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️محمد مرندی، عضو سابق تیم مذاکره‌کننده هسته‌ای که در گفتگوهای اخیر در اسلام‌آباد حضور داشت، دوشنبه‌شب چهارم خرداد‌ماه، در گفتکو با صدا و سیما مدعی شد قطر پذیرفته است دارایی‌های مسدودشده جمهوری اسلامی را که حدود شش میلیارد دلار برآورد می‌شود، پیش از نهایی شدن توافق در اختیار تهران قرار دهد و سپس معادل این مبلغ را از آمریکا دریافت کند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12508
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سخنگوی وزارت خارجه قطر:
+اینکه گفتن قطر 12 میلیارد دلار از پول‌های بلوکه شده ایران رو قراره پرداخت کنه کاملا کذبه و از این خبرا نیست!
+@withyashar
+</div>
+
+## WithYashar — post 12507
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سخنگوی سنتکام به فاکس نیوز : نیرو های آمریکایی در جنوب ایران حملات دفاعی انجام دادند تا از نیرو های خود در برابر تهدیدات نیرو های ایرانی محافظت کنند. اهداف شامل سایت‌ های پرتاب موشک و قایق‌ های ایرانی بودند که در تلاش برای کاشت مین بودند فرماندهی مرکزی…
+</div>
+
+## mwarmonitor — post 9726
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سخنگوی سنتکام، کاپیتان تیم هاوکینز به فاکس گفت: 🔴«نیروهای آمریکایی امروز در جنوب ایران حملات دفاع از خود انجام دادند تا از نیروهای ما در برابر تهدیدهای ناشی از نیروهای ایرانی محافظت کنند. اهداف شامل سایت‌های پرتاب موشک و قایق‌های ایرانی بود که در حال تلاش…
+</div>
+
+## FoxNewsTwitter — post 342254
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_342254_1779750783.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Sen. Bernie Sanders headlines campaign rally in Portland, Maine https://twitter.com/i/broadcasts/1AGRnnZnRkXGl
+</div>
+
+## IranIntlTV — post 339005
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339005_1779750784.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دانیال از آلمان: ما ایرانی‌ها تازه همدیگر را پیدا کرده‌ایم
+
+«یک ایران صدای شما را می‌شنود»
+دوشنبه تا پنجشنبه ۱۱ شب تهران
+از تلویزیون ایران اینترنشنال
+
+تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:
+https://youtu.be/eYsI3zfbVKA
+@iranintltv
+</div>
+
+## IranIntlTV — post 339004
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339004_1779750786.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محمد محمدی گلپایگانی، رییس دفتر علی خامنه‌ای، رهبر کشته‌شده جمهوری اسلامی، درباره زندگی او گفت: «خامنه‌ای با تجمل‌گرایی مخالف بود و زندگی او بسیار ساده‌ بود.»
+
+گلپایگانی به نقل از او گفت که تمام وسایل زندگی شخصی‌اش به اندازه بار یک وانت، یا حتی کمتر، بود.
+@iranintltv
+</div>
+
+## IranIntlTV — post 339003
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_339003_1779750788.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرزانه از هلند: جمهوری اسلامی باعث تفرقه بین مردم شده بود، ولی حالا همه یک‌صدا هستیم
+
+«یک ایران صدای شما را می‌شنود»
+دوشنبه تا پنجشنبه ۱۱ شب تهران
+از تلویزیون ایران اینترنشنال
+
+تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:
+https://youtu.be/eYsI3zfbVKA
+@iranintltv
+</div>
+
+## IranIntlTV — post 339002
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_339002_1779750790.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاکس‌نیوز به نقل از سخنگوی ستاد فرماندهی مرکزی آمریکا، سنتکام، گزارش داد نیروهای آمریکا روز دوشنبه در جنوب ایران به اهدافی از جمله محل‌های پرتاب موشک و قایق‌های ایرانی که در تلاش برای مین‌گذاری بودند، حمله کردند.
+https://iranintl.com/202605255929
+</div>
+
+## Shin_Persian — post 6234
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Jennifer Griffin ✓ @JenGriffinFNC
+Mon, 25 May 2026 22:54:25 UTC
+
+CENTCOM spox Capt Tim Hawkins to Fox: “U.S. forces conducted self-defense strikes in southern Iran today to protect our troops from threats posed by Iranian forces. Targets included missile launch sites and Iranian boats attempting to emplace mines. U.S. Central Command continues to defend our forces while using restraint during the ongoing ceasefire.”
+
+فارسی
+
+کاپیتان تیم هاوکینز، سخنگوی سنتکام (فرماندهی مرکزی ایالات متحده) به فاکس‌نیوز گفت: «نیروهای آمریکایی امروز برای محافظت از نیروهایمان در برابر تهدیدات ناشی از نیروهای ایرانی، حملاتی را در قالب دفاع از خود در جنوب ایران انجام دادند. اهداف شامل سایت‌های پرتاب موشک و قایق‌های ایرانی بود که قصد مین‌گذاری داشتند. فرماندهی مرکزی ایالات متحده ضمن رعایت خویشتن‌داری در طول آتش‌بس جاری، به دفاع از نیروهای ما ادامه می‌دهد.»
+
+𝕏 · @shin_persian
+</div>
+
+## Shin_Persian — post 6233
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Mon, 25 May 2026 23:02:20 UTC
+
+So it was US :))
+
+فارسی
+
+پس کار آمریکا بود :))
+
+𝕏 · @shin_persian
+</div>
+
+## Persian_Trend_Official — post 15024
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️سخنگوی فرماندهی مرکزی آمریکا به خبرگزاری فاکس نیوز
+
+⭕️ «نیروهای آمریکایی امروز در جنوب ایران حملات دفاع در خود انجام دادند تا از نیروهای خود در برابر تهدیدات ناشی از نیروهای ایرانی محافظت کنند. اهداف شامل سایت‌های پرتاب موشک و کشتی‌های ایرانی بود که سعی می‌کردند مین‌ها را مستقر کنند.
+
+♦️فرماندهی مرکزی آمریکا همچنان در حال دفاع از نیروهای خود است، در حالی که در طول آتش‌بس جاری از خودداری استفاده می‌کند.»
+
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+---
 📅 بروزرسانی: 1405/03/05 02:32
 ---
 
