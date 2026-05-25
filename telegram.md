@@ -7,6 +7,281 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/05 00:43
+---
+
+## VahidOOnLine — post 242186
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242186_1779743598.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️درحالی‌که از کشته‌شدن علی خامنه‌ای در حمله مشترک آمریکا و اسرائیل، ۸۸ روز می‌گذرد، فارس، خبرگزاری وابسته به سپاه دوشنبه‌شب، چهارم خردادماه، به نقل از رئیس شورای هماهنگی تبلیغات اسلامی تهران گزارش داد: «هنوز زمان مشخصی برای تشییع رهبر شهید انقلاب تعیین نشده و مردم به شایعات توجه نکنند». رهبر دوم جمهوری اسلامی روز ۹ اسفند ۱۴۰۴ در تهران کشته شد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 242185
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_242185_1779743598.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ فارس، خبرگزاری وابسته به سپاه، بامداد سه‌شنبه، پنجم خردادماه، از شنیده شدن چند انفجار در بندر عباس و حوالی سیریک و جاسک خبر داد و نوشت: «هنوز محل دقیق و منشا این صداها مشخص نیست».
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 12476
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+انقدر مسیج بی‌مورد ندید مگه به بچه آدم چند بار باید بگن !؟! دایرکت جای جوک و نظر شما نیست ! الان زمانه گزارش ها است فقط !
+</div>
+
+## WithYashar — post 12475
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترور هدفمند بابل (تایید نشده)
+@withyashar
+</div>
+
+## WithYashar — post 12474
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تابناک : باند پروازی فرودگاه بندرعباس مورد اصابت موشک قرار گرفت
+@withyashar
+</div>
+
+## WithYashar — post 12473
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+زدننننن
+</div>
+
+## WithYashar — post 12472
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پدافند اصفهان فعال شد
+@withyashar
+</div>
+
+## mwarmonitor — post 9715
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ایران به واشنگتن هشدار داده است که هرگونه حمله اسرائیل به بیروت یا حومه جنوبی آن، می‌تواند تلاش‌های جاری برای پایان دادن به جنگ را به‌طور جدی به خطر بیندازد و حتی کل روند دیپلماتیک را کاملاً مختل کند — الجزیره. @mwarmonitor
+</div>
+
+## pm_afshaa — post 91495
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴میدل ایست: دو قایق تندرو نیروی دریایی سپاه در خلیج فارس هدف جنگنده‌های آمریکایی قرار گرفتن و 4 سرباز کشته شدن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91494
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91494_1779743599.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴معاون استاندار هرمزگان: منشا صدای انفجار در حال بررسی است.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91493
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91493_1779743600.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴بندرعباس صدای 4 انفجار شنیده شده. 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91492
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91492_1779743601.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴الجزیره: احتمالا توافق بین آمریکا و جمهوری اسلامی سه‌شنبه اعلام میشه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## kianmeli1 — post 87665
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ادعای تابناک: باند پروازی فرودگاه بندرعباس مورد اصابت موشک قرار گرفت.
+https://t.me/kianmeli1
+</div>
+
+## Shin_Persian — post 6223
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_6223_1779743602.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Mon, 25 May 2026 21:10:26 UTC
+
+Source of this image is not know, it has no results in reverse image searches, and it's claimed to be from Bandar Abbas, Hormozgan Province, #Iran
+(Can't confirm)
+
+فارسی
+
+منبع این تصویر مشخص نیست، در جستجوی معکوس تصاویر هیچ نتیجه‌ای ندارد و ادعا شده است که مربوط به بندرعباس در استان هرمزگان، #Iran است.
+(قابل تأیید نیست)
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 218652
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218652_1779743603.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️آیا فرانسه می‌خواهد اروپا را از وابستگی به چین نجات دهد؟
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 15003
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15003_1779743604.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فعالیت پدافند بندر عباس
+
+
+👩‍💻@PhantomDirective
+
+
+🆔@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 15002
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15002_1779743606.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبر عجیب خبرگزاری تابناک
+
+
+
+👩‍💻@PhantomDirective
+
+
+🆔@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 15001
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_15001_1779743607.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرنگار الجزیره: ایران به آمریکا هشدار داده است که هرگونه حمله اسرائیل به بیروت یا حومه‌های جنوبی آن می‌تواند مذاکرات جاری برای پایان دادن به جنگ را به طور جدی به خطر بیندازد!
+</div>
+
+## Persian_Trend_Official — post 15000
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_15000_1779743608.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرنگار الجزیره:
+ایران به آمریکا هشدار داده است
+که هرگونه حمله اسرائیل به بیروت
+یا حومه‌های جنوبی آن می‌تواند
+مذاکرات جاری برای پایان دادن
+به جنگ را به طور جدی
+به خطر بیندازد!
+</div>
+
+## IranianMinds — post 20764
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 تابناک : باند فرودگاه هدف حمله ی موشکی قرار گرفته. @IranianMinds
+</div>
+
+## IranianMinds — post 20763
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ولی زود خوشحال نشید بخواد جنگ شه با خبر کتلت شدن سپاهیا بیدار میشید فقط یا بازم‌ مثل دفعه ی قبله یا خودشون ی گوهی خوردن
+</div>
+
+## IranianMinds — post 20762
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 خبرگزاری تابناک : باند فرودگاه بندرعباس هدف حمله قرار گرفت. @IranianMinds
+</div>
+
+## IranianMinds — post 20761
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 خبرگزاری تابناک :
+
+باند فرودگاه بندرعباس هدف حمله قرار گرفت.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20760
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ارتش اسرائیل :
+
+از امروز عملیات «تیر آتش» رو برای نابودی کامل حزب الله در لبنان آغاز میکنیم!
+
+@IranianMinds
+</div>
+
+## alonews — post 122672
+
+<div align="center">
+  <a href="telegram/content/alonews_122672_1779743609.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تابناک:
+فرودگاه بندرعباس مورد اصابت موشک قرار گرفت.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/05 00:32
 ---
 
