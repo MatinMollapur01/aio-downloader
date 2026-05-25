@@ -7,6 +7,152 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/04 21:13
+---
+
+## pm_afshaa — post 91472
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بچه ها چنل زاپاسمونو بفرستین برا بقیه حتما داشته باشینمون گممون نکنین
+
+دمتون گرم از حمایتتون🤍🤍
+
+https://t.me/pm_zapas
+https://t.me/pm_zapas
+</div>
+
+## IranIntlTV — post 338961
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+توافق احتمالی با تهران، باعث شکاف در جمهوری‌خواهان شده است. تعدادی از سناتورهای ارشد جمهوری‌خواه، معتقدند ترامپ با رفع بخشی از تحریم‌ها و آزادسازی دارایی‌های تهران، امتیاز زیادی به جمهوری اسلامی می‌دهد. آن‌ها هشدار داده‌اند فروش دوباره نفت، می‌تواند باعث تقویت جمهوری اسلامی و گروه‌های نیابتی تهران شود. کاخ سفید اما از مذاکرات دفاع کرده و می‌گوید ترامپ اجازه نخواهد داد ایران به سلاح هسته‌ای دست پیدا کند.
+
+گفت‌وگو با مرضیه حسینی، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 338960
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_338960_1779731021.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رسانه‌های ایران گزارش دادند مسعود پزشکیان دستور بازگشایی اینترنت بین‌الملل را ابلاغ کرده است.
+پزشکیان گفت: «راه دشواری پیمودیم تا حق مردم را به آنها بازگردانیم .»
+پیش‌تر ستاد راهبری و ساماندهی فضای مجازی، به ریاست محمدرضا عارف، معاون اول مسعود پزشکیان، تشکیل جلسه داد و بازگشت اینترنت به وضعیت پیش از دی‌ماه ۱۴۰۴ را تصویب کرد.
+https://iranintl.com/202605257040
+</div>
+
+## FarsiVOA — post 218635
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_218635_1779731022.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️دونالد ترامپ، رئیس جمهوری آمریکا در روز یادبود با حضور در آرامستان ملی آرلینگتون، به قهرمانان جنگی ادای احترام کرد. پرزیدنت ترامپ نظامیان کشته‌شده آمریکا در عملیات خشم حماسی را قهرمانانی نامید که جانشان را از دست دادند تا بزرگترین حامی تروریسم در جهان به سلاح هسته‌ای دست پیدا نکند و هرگز هم دست پیدا نخواهد کرد.
+</div>
+
+## IranianMinds — post 20746
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20746_1779731022.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴منابع العربیه: نسخه نهایی پیش‌نویس یادداشت تفاهم آمریکا و ایران شامل تجدید قابل تمدید آتش‌بس ۶۰ روزه، باز کردن تنگه هرمز بدون اخذ عوارض و پاکسازی مین‌ها و برداشتن موانع دریایی از این آبراه بین‌المللی مقابل تجارب جهانی، برداشتن برخی محدودیت‌ها از بنادر ایران…
+</div>
+
+## IranianMinds — post 20745
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎁 استارت کن و کانفیگتو رایگان بگیر 
+⭐ویژه کاربران پرمیوم تلگرام 
+⭐️ اگه اکانت تلگرامت پرمیوم باشه به محض استارت ربات بدون هیچ امتیاز و زیر مجموعه دایی جون بهت کانفیگ هدیه میده 
+✔️ همچنین با اوردن دوستای پرمیومت امتیاز بیشتری میگیری 
+🎁 @Daeijoonbot | استارت…
+</div>
+
+## IranianMinds — post 20743
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20743_1779731022.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎁 استارت کن و کانفیگتو رایگان بگیر
+
+
+⭐ویژه کاربران پرمیوم تلگرام
+
+
+⭐️ اگه اکانت تلگرامت پرمیوم باشه به محض استارت ربات بدون هیچ امتیاز و زیر مجموعه دایی جون بهت کانفیگ هدیه میده
+
+✔️ همچنین با اوردن دوستای پرمیومت امتیاز بیشتری میگیری
+
+
+🎁 @Daeijoonbot | استارت کن و کانفیگ رایگان بگیر 
+🌟
+</div>
+
+## Dirty_Kids — post 390172
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_390172_1779731023.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏افتخار به یک رذیلت اخلاقی، اون رذیلت رو فضیلت نمی‌کنه.
+انگار یه مگس بیاد بگه من با افتخار گه می‌خورم.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 390171
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_390171_1779731023.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بعد دیدن این ویدیو درصد ایمانتون به ترامپ ۱۰درصد افزایش پیدا میکنه
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 122632
+
+<div align="center">
+  <a href="telegram/content/alonews_122632_1779731025.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یک مقام آمریکایی به اکسیوس گفت: دولت ترامپ از تشدید اقدام نظامی اسرائیل در لبنان حمایت خواهد کرد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 122631
+
+<div align="center">
+  <a href="telegram/content/alonews_122631_1779731026.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈اسرائیل آماده حمله گسترده به لبنان است
+
+
+🔴کانال ۱۴ اسرائیل: نتانیاهو و کاتز (وزیر جنگ) درباره گسترش چشمگیر عملیات در لبنان و تصویب هدف قرار دادن ساختمان‌ها گفت‌وگو کردند.
+
+
+🔴کانال ۱۳ تلویزیون اسرائیل: اسرائیل در حال مذاکره با ایالات متحده در مورد گسترش عملیات نظامی در لبنان است.
+
+
+🔴خبرگزاری رسمی اسرائیل هم گزارش داد که ارتش طرح حمله آتشین قدرتمندی را علیه لبنان آماده کرده و منتظر تایید سیاسی است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/04 21:04
 ---
 
